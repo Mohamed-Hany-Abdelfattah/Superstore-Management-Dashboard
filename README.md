@@ -1,7 +1,12 @@
-<div align="center">
+![Superstore Management Dashboard](images/banner.png)
 
-</div>
-
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft&logoColor=white)
+![Requires Excel 2016+](https://img.shields.io/badge/Requires-Excel%202016%2B-107C41?style=flat-square)
+![No VBA](https://img.shields.io/badge/VBA-None-success?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Slicers](https://img.shields.io/badge/Slicers-4%20interactive-5FAFA5?style=flat-square)
+![Charts](https://img.shields.io/badge/Charts-5%20native-1F4E79?style=flat-square)
+![Sheets](https://img.shields.io/badge/Sheets-5-lightgrey?style=flat-square)
+![Rows](https://img.shields.io/badge/Rows-9%2C993-lightgrey?style=flat-square)
 
 ---
 
@@ -160,7 +165,6 @@ superstore-management-dashboard/
 │   ├── kpi-cards.png           # KPI card strip
 │   ├── filter-panel.png        # Slicer filter panel
 │   └── analysis.png            # Analysis sheet
-├── LICENSE                     # MIT License
 └── README.md                   # Project documentation
 ```
 
@@ -182,8 +186,4 @@ The **cleaning logic, derived columns, PivotTable analysis, slicer configuration
 
 ---
 
-<div align="center">
-
-**© 2026 Mohamed Hany Abdelfattah** — Released under the [MIT License](LICENSE).
-
-</div>
+**Built by [Mohamed Hany Abdelfattah](https://github.com/Mohamed-Hany-Abdelfattah/)** — © 2026
