@@ -1,8 +1,16 @@
-# 📊 Superstore Sales Analysis Dashboard
+# 🏬 Superstore Management Dashboard
 
 Interactive **Microsoft Excel** management dashboard analyzing **4 years** of retail sales (**2016–2019**) for a US superstore chain — **9,993 line items · 5,009 orders · 793 customers · $2.29M in sales**, driven by a live **Filter Panel** and 5 native charts.
 
 > **Tool:** Microsoft Excel (PivotTables, Slicers, Excel Tables, Conditional Formatting, Charts) | **Data Source:** Kaggle — *Superstore Sales Dataset*
+
+---
+
+## 📸 Dashboard Preview
+
+> Live view of the `SUPERSTORE DASHBOARD` sheet — 5 KPI cards, 4 slicers, and 5 charts. Click any slicer to re-slice the whole dashboard.
+
+![Superstore Management Dashboard](images/dashboard.png)
 
 ---
 
@@ -134,9 +142,11 @@ This project uses the widely available **[Superstore Sales Dataset](https://www.
 ## 📦 File Structure
 
 ```text
-superstore-sales-analysis/
-├── Superstore 2019.xlsx   # Main workbook (5 sheets)
-└── README.md              # Project documentation
+superstore-management-dashboard/
+├── Superstore 2019.xlsx       # Main workbook (5 sheets)
+├── images/
+│   └── dashboard.png           # Dashboard preview render
+└── README.md                   # Project documentation
 ```
 
 ---
