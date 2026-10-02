@@ -1,14 +1,3 @@
-![Superstore Management Dashboard](images/banner.png)
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft&logoColor=white)
-![Requires Excel 2016+](https://img.shields.io/badge/Requires-Excel%202016%2B-107C41?style=flat-square)
-![No VBA](https://img.shields.io/badge/VBA-None-success?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Slicers](https://img.shields.io/badge/Slicers-4%20interactive-5FAFA5?style=flat-square)
-![Charts](https://img.shields.io/badge/Charts-5%20native-1F4E79?style=flat-square)
-![Sheets](https://img.shields.io/badge/Sheets-5-lightgrey?style=flat-square)
-![Rows](https://img.shields.io/badge/Rows-9%2C993-lightgrey?style=flat-square)
-
----
 
 ## 📋 About
 
