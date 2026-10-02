@@ -1,7 +1,5 @@
 <div align="center">
 
-![Superstore Management Dashboard](images/banner.png)
-
 </div>
 
 <div align="center">
